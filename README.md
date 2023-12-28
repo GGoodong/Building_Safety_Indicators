@@ -1,4 +1,4 @@
-<img width="1391" alt="스크린샷 2023-12-28 오후 3 46 40" src="https://github.com/GGoodong/Building_Safety_Indicators/assets/132545436/452dafc3-15e5-41cb-b5ce-35d12d39ac49"># Building_Safety_Indicators
+# Building_Safety_Indicators
 Development of risk indicators through building safety data mining and analysis
 
 
