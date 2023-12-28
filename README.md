@@ -14,4 +14,4 @@ Development of risk indicators through building safety data mining and analysis
 - 인명피해 예측 정확도 93.9%
 - 재산 피해액 예측 R-squared 0.784, MAE 2.062
 - ML Prediction 정확도 90.1%
-- 제3회 소방안전 빅데이터 활용 및 아이디어 경진대회 최우수상(한국소방안전원장상)
+- 제3회 소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회 최우수상(한국소방안전원장상)
