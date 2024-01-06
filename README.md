@@ -7,7 +7,7 @@ Development of risk indicators through building safety data mining and analysis
 - 해당 지표를 활용해 건물 화재 위험도를 실시간으로 분석하고 선제적인 대응전략을 수립하여 화재로 인한 피해를 최소화 할 수 있을 것으로 기대한다.
 
 ##
-<img width="1163" alt="스크린샷 2023-12-29 오전 1 10 17" src="https://github.com/GGoodong/Building_Safety_Indicators/assets/132545436/0a8151ee-a6cc-479f-9d08-eee4f5c88012">
+<img width="1163" alt="스크린샷 2024-01-06 오후 11 18 07" src="https://github.com/GGoodong/Building_Safety_Indicators/assets/132545436/302add11-daba-4abf-acf0-92e402ac9670">
 <img src="https://github.com/tgwon/Building_Safety_Indicators/assets/102985590/2d3c5845-223a-467c-9236-1fca465f3c5d"  width="760" height="430">
 <img width="1391" alt="스크린샷 2023-12-28 오후 3 46 40" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/043c6637-b3a6-4757-b447-551864fa676c">
 
